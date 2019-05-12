@@ -1,7 +1,5 @@
 # Express Aplicaction
 — Created by [@ruslanguns](https://github.com/ruslanguns/)
-— Created by [@ruslanguns](https://github.com/ruslanguns/)
-
 
 # Table of content
 * [Introduction](#introduction)
