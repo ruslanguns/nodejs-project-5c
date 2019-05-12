@@ -36,7 +36,7 @@ $ npm run start:dev
 Requires a NPM server.
 
 ```bash
-$ npm run start:dev
+$ npm start
 ```
 
 ## Atributions
